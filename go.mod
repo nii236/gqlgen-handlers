@@ -1,4 +1,4 @@
-module handlers
+module github.com/ninja-software/handlers
 
 go 1.13
 
